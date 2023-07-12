@@ -6,7 +6,7 @@
 #    By: Maurice809 <maurice809@hotmail.com>        +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/09/22 17:24:37 by Maurice809        #+#    #+#              #
-#    Updated: 2023/07/12 14:28:30 by tmoret           ###   ########.fr        #
+#    Updated: 2023/04/11 18:45:14 by Maurice809       ###   Lausanne.ch        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -16,7 +16,7 @@
 .DS_Store
 
 # ingnore directory
-#**/util
+**/util
 **/Doc
 
 # ingnore eFat file
