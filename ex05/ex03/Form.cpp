@@ -1,15 +1,3 @@
-/* ************************************************************************** */
-/*                                                                            */
-/*                                                        :::      ::::::::   */
-/*   Form.cpp                                           :+:      :+:    :+:   */
-/*                                                    +:+ +:+         +:+     */
-/*   By: aducret <ambrodu@gmail.com>                +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/02/17 20:41:17 by aducret           #+#    #+#             */
-/*   Updated: 2023/02/18 10:14:37 by aducret          ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
-
 #include "Form.hpp"
 
 Form::Form(std::string name, int gradeToSign, int gradeToExecute) : _name(name), _signed(false), _gradeToSign(gradeToSign), _gradeToExecute(gradeToExecute)
